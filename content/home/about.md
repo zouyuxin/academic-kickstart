@@ -30,4 +30,6 @@ weight = 5
 
 # Biography
 
-Hi, I am Yuxin Zou, a Ph.D. candidate at University of Chicago, Department of statistics. My advisor is Professor [Matthew Stephens](http://stephenslab.uchicago.edu/).
+Hi, I am Yuxin Zou, a Ph.D. candidate at University of Chicago, Department of statistics. 
+
+My advisor is Professor [Matthew Stephens](http://stephenslab.uchicago.edu/).
