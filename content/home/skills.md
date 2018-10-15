@@ -1,7 +1,7 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
+date = 2018-10-15T00:00:00
 
 # Activate this widget? true/false
 active = true
@@ -25,7 +25,7 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
@@ -34,9 +34,9 @@ weight = 7
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "fa-python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "70%"
 
 +++
