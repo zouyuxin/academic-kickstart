@@ -10,7 +10,7 @@ summary = "Sum of Single Effects regression."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Variational Bayes", "single effect regression", "summary statistics"]
+tags = ["Variational Bayes", "Single Effect regression", "Summary Statistics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://stephenslab.github.io/susieR/"
