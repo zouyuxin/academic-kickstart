@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Multivariate Adaptive Shinkage"
+title = "mashr"
 
 # Date this page was created.
 date = 2018-10-15T00:00:00
 
 # Project summary to display on homepage.
-summary = "Estimate and test many effects in many conditions."
+summary = "Multivariate Adaptive Shinkage."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
