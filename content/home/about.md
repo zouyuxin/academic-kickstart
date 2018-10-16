@@ -5,7 +5,7 @@ active = true
 date = 2018-10-15T00:00:00
 
 # Order that this section will appear in.
-weight = 1
+weight = 5
 
 # List your academic interests.
 [interests]
