@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Application of statistical method in human genomics",
-    "Statistical Method using summary statistics"
+    "Application of Statistical Method in Human Genomics",
+    "Statistical Method using Summary Statistics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -29,6 +29,6 @@ weight = 5
 
 # Biography
 
-Hi, I am Yuxin Zou, a Ph.D. candidate at University of Chicago, Department of statistics. 
+I am a Ph.D. candidate at University of Chicago, Department of statistics. 
 
 My advisor is Professor [Matthew Stephens](http://stephenslab.uchicago.edu/).
