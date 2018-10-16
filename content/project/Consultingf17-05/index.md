@@ -3,7 +3,7 @@
 title = "Consulting Project F17-05"
 
 # Date this page was created.
-date = 2018-10-16T00:00:00
+date = 2018-05-22T00:00:00
 
 # Project summary to display on homepage.
 summary = "Effect of Avatar Characteristics on In Game Conversations"
