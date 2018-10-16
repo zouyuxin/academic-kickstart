@@ -59,7 +59,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Chciago", url = "https://galton.uchicago.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Head.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "yuxin@uchicago.edu"
