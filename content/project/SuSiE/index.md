@@ -17,10 +17,10 @@ external_link = "https://stephenslab.github.io/susieR/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-# [image]
-#   # Caption (optional)
-#   caption = "Photo by Toa Heftiba on Unsplash"
-#   # Focal point (optional)
-#   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-#   focal_point = "Smart"
+[image]
+  # Caption (optional)
+  caption = "Image credit:[**Unsplash**](https://unsplash.com/photos/Q5Qe0WI66_4)"
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 +++

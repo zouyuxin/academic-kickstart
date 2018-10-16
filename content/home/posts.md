@@ -9,7 +9,7 @@ title = "Recent Posts"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 30
 
 # Filter posts by tag.
 #  By default, show all recent posts.
@@ -26,4 +26,6 @@ count = 5
 #   2 = Stream
 list_format = 2
 +++
+
+I organize my notes [here](https://zouyuxin.github.io/Note/).
 
