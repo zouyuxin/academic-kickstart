@@ -14,3 +14,8 @@ subtitle = ""
 weight = 4
 
 +++
+
+I am a Teaching Assistant for the following courses at University of Chicago:
+
+STAT
+
